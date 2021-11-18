@@ -1,7 +1,5 @@
 # [Effectuez une prédiction de revenus](https://openclassrooms.com/fr/paths/65/projects/148/assignment) 
 
-# PROJET EN COURS
-
 #### Compétences évaluées : 
 
   - Maîtriser les bases de la statistique inférentielle
@@ -52,3 +50,10 @@ Vous aurez également besoin de récupérer le nombre d'habitants de chaque pays
 
 ## Overview : 
 
+![05  Revenu moyen en fonction des classes de revenus - final](https://user-images.githubusercontent.com/45063193/142490964-d6a8ac55-c1d5-4528-9af0-6b843f63629f.jpeg)
+
+
+![07  Courbe de Lorenz - tous les pays](https://user-images.githubusercontent.com/45063193/142490998-e8f3cf22-dc3a-43fb-a603-5459beda1b6c.jpeg)
+
+
+![09  Distributions Conditionnelles - faible mobilité (0 9)](https://user-images.githubusercontent.com/45063193/142491033-d3fb4d93-9444-4d87-ae22-e876a6cbd21f.jpeg)
