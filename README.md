@@ -6,9 +6,7 @@
   - Maîtriser les bases des probabilités
   - Modéliser des données
 
-<br>
-
-## Notebook : 
+#### Notebook : 
 
 📗 ***[Analyse des données](https://github.com/Gladouu/P7/blob/main/P7_01_code.ipynb)***
 
