@@ -8,6 +8,11 @@
 
 <br>
 
+## Notebook : 
+
+📗 ***[Analyse des données](https://github.com/Gladouu/P7/blob/main/P7_01_code.ipynb)***
+
+<br>
 ## Scénario : 
 
 Vous êtes employé dans une banque, présente dans de nombreux pays à travers le monde. Celle-ci souhaite cibler de nouveaux clients potentiels, plus particulièrement les jeunes en âge d'ouvrir leur tout premier compte bancaire.
